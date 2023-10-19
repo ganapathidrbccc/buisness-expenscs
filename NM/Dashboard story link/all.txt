@@ -1,0 +1,13 @@
+https://public.tableau.com/views/finesh/Story2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+story 2
+https://public.tableau.com/shared/2WKCFTZFS?:display_count=n&:origin=viz_share_link
+dashboard 3
+https://public.tableau.com/views/dashbord3_16976244098310/Dashboard3?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+dashboard 2
+https://public.tableau.com/views/dashbord2_16976246375560/Dashboard2?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+dashbord 1
+https://public.tableau.com/views/dashbord1_16976248319000/Expense?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+story main
+https://public.tableau.com/views/storymain/Story4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+Dashboard main 
+https://public.tableau.com/views/dashbordmain/Dashboard4?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
